@@ -1,0 +1,3 @@
+firend url : https://medium.com/@leehari007/writing-your-first-api-with-python-flask-2d7c7214b22c
+barocode friend url : https://medium.com/@leehari007/creating-a-barcode-scanner-using-android-studio-71cff11800a2?sk=df40712085ccdc33621d90fe64cbedf1
+
